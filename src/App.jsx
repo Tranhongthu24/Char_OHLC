@@ -26,8 +26,8 @@ const App = () => {
 
   return (
     <div className="App">
-      {/* <h1>Stock OHLC Chart</h1>
-      <OhlcChart data={chartData} /> */}
+      <h1>Stock OHLC Chart</h1>
+      {/* <OhlcChart data={chartData} /> */}
     </div>
   );
 };
